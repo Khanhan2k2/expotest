@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "expotest",
-    "slug": "expotest",
+    "slug": "repotest",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ea4d1339-9ae6-421c-9093-328b1561cfcc"
+      }
+    },
+    "owner": "anbuibz54"
   }
 }
